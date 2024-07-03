@@ -4,7 +4,7 @@
 }
 .miImagen {
   filter: grayscale(100%);
-  width: 350px;
+  width: 37%;
   height: auto;
   padding: 20px;
 }
@@ -14,7 +14,7 @@
 .tituloSeccionQuienSoyA {
   font-weight: 900;
   font-size: 40px;
-  text-align: justify;
+  text-align: center;
 }
 .tituloSeccionQuienSoyB {
   font-weight: 900;
